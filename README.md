@@ -1,2 +1,1 @@
-# xjr
-Shawn Xiong test program
+#test program
